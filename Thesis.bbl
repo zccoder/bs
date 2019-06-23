@@ -1,0 +1,207 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[{冀焕梅\ 等(2003)冀焕梅, 任炜, 王丽君, 韩军, and
+  梁秀芬}]{2冀焕梅2003乳腺良恶性肿瘤的钼靶}
+冀焕梅, 任炜, 王丽君, 等.
+\newblock 乳腺良恶性肿瘤的钼靶 X 线鉴别诊断\allowbreak[D].
+\newblock 2003.
+
+\bibitem[{陈诗慧\ 等(2017)陈诗慧, 刘维湘, 秦璟, 陈亮亮, 宾果,
+  周煜翔, 汪天富, and
+  黄炳升}]{4陈诗慧2017基于深度学习和医学图像的癌症计算机辅助诊断研究进展}
+陈诗慧, 刘维湘, 秦璟, 等.
+\newblock
+  基于深度学习和医学图像的癌症计算机辅助诊断研究进展\allowbreak[J].
+\newblock 生物医学工程学杂志, 2017, 34\penalty0 (2):\penalty0 314r319.
+
+\bibitem[{Carneiro {\biband} Bradley()Carneiro and
+  Bradley}]{25carneiroautomated}
+CARNEIRO~N~D~G, BRADLEY~A~P.
+\newblock Automated mass detection from mammograms using deep learning and
+  random forest\allowbreak[J].
+
+\bibitem[{Clark {\bibetal}(2013)Clark, Vendt, Smith, Freymann, Kirby, Koppel,
+  Moore, Phillips, Maffitt, Pringle, et~al.}]{23clark2013cancer}
+CLARK~K, VENDT~B, SMITH~K, et~al.
+\newblock The cancer imaging archive (tcia): maintaining and operating a public
+  information repository\allowbreak[J].
+\newblock Journal of digital imaging, 2013, 26\penalty0 (6):\penalty0
+  1045-1057.
+
+\bibitem[{Dhungel {\bibetal}(2017)Dhungel, Carneiro, and
+  Bradley}]{24dhungel2017fully}
+DHUNGEL~N, CARNEIRO~G, BRADLEY~A~P.
+\newblock Fully automated classification of mammograms using deep residual
+  neural networks\allowbreak[C]//\allowbreak
+2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017).
+\newblock IEEE, 2017: 310-314.
+
+\bibitem[{Esteva {\bibetal}(2017)Esteva, Kuprel, Novoa, Ko, Swetter, Blau, and
+  Thrun}]{12esteva2017dermatologist}
+ESTEVA~A, KUPREL~B, NOVOA~R~A, et~al.
+\newblock Dermatologist-level classification of skin cancer with deep neural
+  networks\allowbreak[J].
+\newblock Nature, 2017, 542\penalty0 (7639):\penalty0 115.
+
+\bibitem[{Geras {\bibetal}(2017)Geras, Wolfson, Shen, Kim, Moy, and
+  Cho}]{26geras2017high}
+GERAS~K~J, WOLFSON~S, SHEN~Y, et~al.
+\newblock High-resolution breast cancer screening with multi-view deep
+  convolutional neural networks\allowbreak[J].
+\newblock arXiv preprint arXiv:1703.07047, 2017.
+
+\bibitem[{He {\bibetal}(2016)He, Zhang, Ren, and Sun}]{8he2016deep}
+HE~K, ZHANG~X, REN~S, et~al.
+\newblock Deep residual learning for image
+  recognition\allowbreak[C]//\allowbreak
+Proceedings of the IEEE conference on computer vision and pattern recognition.
+\newblock 2016: 770-778.
+
+\bibitem[{Hinton {\bibetal}(2006)Hinton, Osindero, and Teh}]{6hinton2006fast}
+HINTON~G~E, OSINDERO~S, TEH~Y~W.
+\newblock A fast learning algorithm for deep belief nets\allowbreak[J].
+\newblock Neural computation, 2006, 18\penalty0 (7):\penalty0 1527-1554.
+
+\bibitem[{Kermany {\bibetal}(2018)Kermany, Goldbaum, Cai, Valentim, Liang,
+  Baxter, McKeown, Yang, Wu, Yan, et~al.}]{13kermany2018identifying}
+KERMANY~D~S, GOLDBAUM~M, CAI~W, et~al.
+\newblock Identifying medical diagnoses and treatable diseases by image-based
+  deep learning\allowbreak[J].
+\newblock Cell, 2018, 172\penalty0 (5):\penalty0 1122-1131.
+
+\bibitem[{Krizhevsky {\bibetal}(2012{\natexlab{a}})Krizhevsky, Sutskever, and
+  Hinton}]{19krizhevsky2012imagenet}
+KRIZHEVSKY~A, SUTSKEVER~I, HINTON~G~E.
+\newblock Imagenet classification with deep convolutional neural
+  networks\allowbreak[C]//\allowbreak
+Advances in neural information processing systems.
+\newblock 2012{\natexlab{a}}: 1097-1105.
+
+\bibitem[{Krizhevsky {\bibetal}(2012{\natexlab{b}})Krizhevsky, Sutskever, and
+  Hinton}]{7krizhevsky2012imagenet}
+KRIZHEVSKY~A, SUTSKEVER~I, HINTON~G~E.
+\newblock Imagenet classification with deep convolutional neural
+  networks\allowbreak[C]//\allowbreak
+Advances in neural information processing systems.
+\newblock 2012{\natexlab{b}}: 1097-1105.
+
+\bibitem[{Lee {\bibetal}(2017)Lee, Gimenez, Hoogi, Miyake, Gorovoy, and
+  Rubin}]{22lee2017curated}
+LEE~R~S, GIMENEZ~F, HOOGI~A, et~al.
+\newblock A curated mammography data set for use in computer-aided detection
+  and diagnosis research\allowbreak[J].
+\newblock Scientific data, 2017, 4:\penalty0 170177.
+
+\bibitem[{Lee {\bibetal}(2018)Lee, Gimenez, Hoogi, and
+  Rubin}]{21lee2018curated}
+LEE~R~S, GIMENEZ~F, HOOGI~A, et~al.
+\newblock Curated breast imaging subset of ddsm. the cancer imaging
+  archive\allowbreak[Z].
+\newblock 2018.
+
+\bibitem[{L{\'e}vy {\biband} Jain(2016)L{\'e}vy and Jain}]{17levy2016breast}
+L{\'E}VY~D, JAIN~A.
+\newblock Breast mass classification from mammograms using deep convolutional
+  neural networks\allowbreak[J].
+\newblock arXiv preprint arXiv:1612.00542, 2016.
+
+\bibitem[{Li {\bibetal}(2012)Li, Zheng, Zhang, Zou, Zeng, Dai, and
+  Chen}]{1li2012analysis}
+LI~N, ZHENG~R, ZHANG~S, et~al.
+\newblock Analysis and prediction of breast cancer incidence trend in
+  china\allowbreak[J].
+\newblock Zhonghua yu fang yi xue za zhi [Chinese journal of preventive
+  medicine], 2012, 46\penalty0 (8):\penalty0 703-707.
+
+\bibitem[{Liu {\bibetal}(2017)Liu, Gadepalli, Norouzi, Dahl, Kohlberger, Boyko,
+  Venugopalan, Timofeev, Nelson, Corrado, et~al.}]{14liu2017detecting}
+LIU~Y, GADEPALLI~K, NOROUZI~M, et~al.
+\newblock Detecting cancer metastases on gigapixel pathology
+  images\allowbreak[J].
+\newblock arXiv preprint arXiv:1703.02442, 2017.
+
+\bibitem[{Long {\bibetal}(2017)Long, Lin, Liu, Wu, Wang, Jiang, An, Lin, Li,
+  Chen, et~al.}]{11long2017artificial}
+LONG~E, LIN~H, LIU~Z, et~al.
+\newblock An artificial intelligence platform for the multihospital
+  collaborative management of congenital cataracts\allowbreak[J].
+\newblock Nature biomedical engineering, 2017, 1\penalty0 (2):\penalty0 0024.
+
+\bibitem[{Moreira {\bibetal}(2012)Moreira, Amaral, Domingues, Cardoso, Cardoso,
+  and Cardoso}]{27moreira2012inbreast}
+MOREIRA~I~C, AMARAL~I, DOMINGUES~I, et~al.
+\newblock Inbreast: toward a full-field digital mammographic
+  database\allowbreak[J].
+\newblock Academic radiology, 2012, 19\penalty0 (2):\penalty0 236-248.
+
+\bibitem[{Morris(2017)}]{10morris2017technology}
+MORRIS~A.
+\newblock Technology watch: Ai can diagnose diabetic retinopathy\allowbreak[J].
+\newblock Nature Reviews Endocrinology, 2017, 14\penalty0 (2):\penalty0 65.
+
+\bibitem[{Nair {\biband} Hinton(2010)Nair and Hinton}]{9nair2010rectified}
+NAIR~V, HINTON~G~E.
+\newblock Rectified linear units improve restricted boltzmann
+  machines\allowbreak[C]//\allowbreak
+Proceedings of the 27th international conference on machine learning (ICML-10).
+\newblock 2010: 807-814.
+
+\bibitem[{Pan {\biband} Yang(2010)Pan and Yang}]{15pan2010survey}
+PAN~S~J, YANG~Q.
+\newblock A survey on transfer learning\allowbreak[J].
+\newblock IEEE Transactions on knowledge and data engineering, 2010,
+  22\penalty0 (10):\penalty0 1345-1359.
+
+\bibitem[{Ribli {\bibetal}(2018)Ribli, Horv{\'a}th, Unger, Pollner, and
+  Csabai}]{28ribli2018detecting}
+RIBLI~D, HORV{\'A}TH~A, UNGER~Z, et~al.
+\newblock Detecting and classifying lesions in mammograms with deep
+  learning\allowbreak[J].
+\newblock Scientific reports, 2018, 8\penalty0 (1):\penalty0 4165.
+
+\bibitem[{Riedmiller {\biband} Braun(1993)Riedmiller and
+  Braun}]{5riedmiller1993direct}
+RIEDMILLER~M, BRAUN~H.
+\newblock A direct adaptive method for faster backpropagation learning: The
+  rprop algorithm\allowbreak[C]//\allowbreak
+Proceedings of the IEEE international conference on neural networks: volume
+  1993.
+\newblock San Francisco, 1993: 586-591.
+
+\bibitem[{Sathish {\bibetal}(2016)Sathish, Kamath, Rajagopal, and
+  Prasad}]{3sathish2016medical}
+SATHISH~D, KAMATH~S, RAJAGOPAL~K, et~al.
+\newblock Medical imaging techniques and computer aided diagnostic approaches
+  for the detection of breast cancer with an emphasis on thermography-a
+  review\allowbreak[J].
+\newblock International Journal of Medical Engineering and Informatics, 2016,
+  8\penalty0 (3):\penalty0 275-299.
+
+\bibitem[{Shen(2017)}]{18shen2017end}
+SHEN~L.
+\newblock End-to-end training for whole image breast cancer diagnosis using an
+  all convolutional design\allowbreak[J].
+\newblock arXiv preprint arXiv:1708.09427, 2017.
+
+\bibitem[{Simonyan {\biband} Zisserman(2014)Simonyan and
+  Zisserman}]{20simonyan2014very}
+SIMONYAN~K, ZISSERMAN~A.
+\newblock Very deep convolutional networks for large-scale image
+  recognition\allowbreak[J].
+\newblock arXiv preprint arXiv:1409.1556, 2014.
+
+\bibitem[{Zhu {\bibetal}(2017)Zhu, Lou, Vang, and Xie}]{16zhu2017deep}
+ZHU~W, LOU~Q, VANG~Y~S, et~al.
+\newblock Deep multi-instance networks with sparse label assignment for whole
+  mammogram classification\allowbreak[C]//\allowbreak
+International Conference on Medical Image Computing and Computer-Assisted
+  Intervention.
+\newblock Springer, 2017: 603-611.
+
+\end{thebibliography}

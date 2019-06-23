@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: ./Tmp/Thesis.aux
+The style file: Biblio/gbt7714-unsrt.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Biblio/ref.bib
+Warning--empty year in 25carneiroautomated
+Warning--empty journal in 25carneiroautomated
+Warning--empty year in 25carneiroautomated
+Warning--empty journal in 36Redmon2015You
+You've used 56 entries,
+            4079 wiz_defined-function locations,
+            1152 strings with 16885 characters,
+and the built_in function-call counts, 346290 in all, are:
+= -- 3952
+> -- 40669
+< -- 53904
++ -- 14909
+- -- 509
+* -- 2181
+:= -- 48107
+add.period$ -- 167
+call.type$ -- 56
+change.case$ -- 238
+chr.to.int$ -- 13542
+cite$ -- 60
+duplicate$ -- 1263
+empty$ -- 3159
+format.name$ -- 1074
+if$ -- 89536
+int.to.chr$ -- 4
+int.to.str$ -- 57
+missing$ -- 0
+newline$ -- 308
+num.names$ -- 216
+pop$ -- 19041
+preamble$ -- 1
+purify$ -- 56
+quote$ -- 0
+skip$ -- 35178
+stack$ -- 0
+substring$ -- 15041
+swap$ -- 185
+text.length$ -- 595
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 676
+warning$ -- 4
+while$ -- 782
+width$ -- 0
+write$ -- 820
+(There were 4 warnings)

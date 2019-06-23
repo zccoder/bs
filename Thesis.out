@@ -1,0 +1,127 @@
+\BOOKMARK [0][-]{section*.2}{摘 要}{}% 1
+\BOOKMARK [0][-]{section*.4}{Abstract}{}% 2
+\BOOKMARK [0][-]{section*.5}{目 录}{}% 3
+\BOOKMARK [0][-]{section*.7}{图形列表}{}% 4
+\BOOKMARK [0][-]{section*.9}{表格列表}{}% 5
+\BOOKMARK [0][-]{section*.12}{符号列表}{}% 6
+\BOOKMARK [0][-]{chapter.1}{第1章  引言}{}% 7
+\BOOKMARK [1][-]{section.1.1}{1.1 背景及意义}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.1}{1.1.1 乳腺分型}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.2}{1.1.2 乳腺癌及乳腺钼靶}{section.1.1}% 10
+\BOOKMARK [1][-]{section.1.2}{1.2 研究现状}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 乳腺影像学计算机辅助诊断方法}{section.1.2}% 12
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 深度学习技术的发展}{section.1.2}% 13
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 深度学习在乳腺乳腺上的发展}{section.1.2}% 14
+\BOOKMARK [2][-]{subsection.1.2.4}{1.2.4 存在的问题及解决方案}{section.1.2}% 15
+\BOOKMARK [1][-]{section.1.3}{1.3 主要研究内容}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 需求分析，确定评判标准}{section.1.3}% 17
+\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 改进原有模型损失函数}{section.1.3}% 18
+\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 设计基于深度学习的乳腺钼靶分类模型}{section.1.3}% 19
+\BOOKMARK [2][-]{subsection.1.3.4}{1.3.4 编程实现并根据结果设计全新模块及损失函数等}{section.1.3}% 20
+\BOOKMARK [1][-]{section.1.4}{1.4 本文结构及内容提要}{chapter.1}% 21
+\BOOKMARK [0][-]{chapter.2}{第2章  深度学习相关技术}{}% 22
+\BOOKMARK [1][-]{section.2.1}{2.1 卷积神经网络}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.2}{2.2 物体检测模型}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 两阶段物体检测模型}{section.2.2}% 25
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 单阶段物体检测模型}{section.2.2}% 26
+\BOOKMARK [1][-]{section.2.3}{2.3 先试试效果}{chapter.2}% 27
+\BOOKMARK [1][-]{section.2.4}{2.4 文档目录简介}{chapter.2}% 28
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1\040Thesis.tex}{section.2.4}% 29
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 编译脚本}{section.2.4}% 30
+\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 Tmp文件夹}{section.2.4}% 31
+\BOOKMARK [2][-]{subsection.2.4.4}{2.4.4 Style文件夹}{section.2.4}% 32
+\BOOKMARK [2][-]{subsection.2.4.5}{2.4.5 Tex文件夹}{section.2.4}% 33
+\BOOKMARK [2][-]{subsection.2.4.6}{2.4.6 Img文件夹}{section.2.4}% 34
+\BOOKMARK [2][-]{subsection.2.4.7}{2.4.7 Biblio文件夹}{section.2.4}% 35
+\BOOKMARK [1][-]{section.2.5}{2.5 数学公式、图表、参考文献等功能}{chapter.2}% 36
+\BOOKMARK [2][-]{subsection.2.5.1}{2.5.1 数学公式}{section.2.5}% 37
+\BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 数学环境}{section.2.5}% 38
+\BOOKMARK [2][-]{subsection.2.5.3}{2.5.3 表格}{section.2.5}% 39
+\BOOKMARK [2][-]{subsection.2.5.4}{2.5.4 图片插入}{section.2.5}% 40
+\BOOKMARK [2][-]{subsection.2.5.5}{2.5.5 算法}{section.2.5}% 41
+\BOOKMARK [2][-]{subsection.2.5.6}{2.5.6 参考文献引用}{section.2.5}% 42
+\BOOKMARK [1][-]{section.2.6}{2.6 常见使用问题}{chapter.2}% 43
+\BOOKMARK [0][-]{chapter.3}{第3章  数据分析与处理}{}% 44
+\BOOKMARK [1][-]{section.3.1}{3.1 先试试效果}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.2}{3.2 文档目录简介}{chapter.3}% 46
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1\040Thesis.tex}{section.3.2}% 47
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 编译脚本}{section.3.2}% 48
+\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Tmp文件夹}{section.3.2}% 49
+\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Style文件夹}{section.3.2}% 50
+\BOOKMARK [2][-]{subsection.3.2.5}{3.2.5 Tex文件夹}{section.3.2}% 51
+\BOOKMARK [2][-]{subsection.3.2.6}{3.2.6 Img文件夹}{section.3.2}% 52
+\BOOKMARK [2][-]{subsection.3.2.7}{3.2.7 Biblio文件夹}{section.3.2}% 53
+\BOOKMARK [1][-]{section.3.3}{3.3 数学公式、图表、参考文献等功能}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 数学公式}{section.3.3}% 55
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 数学环境}{section.3.3}% 56
+\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 表格}{section.3.3}% 57
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 图片插入}{section.3.3}% 58
+\BOOKMARK [2][-]{subsection.3.3.5}{3.3.5 算法}{section.3.3}% 59
+\BOOKMARK [2][-]{subsection.3.3.6}{3.3.6 参考文献引用}{section.3.3}% 60
+\BOOKMARK [1][-]{section.3.4}{3.4 常见使用问题}{chapter.3}% 61
+\BOOKMARK [0][-]{chapter.4}{第4章  两阶段模型设计与实现}{}% 62
+\BOOKMARK [1][-]{section.4.1}{4.1 目的}{chapter.4}% 63
+\BOOKMARK [1][-]{section.4.2}{4.2 模型图}{chapter.4}% 64
+\BOOKMARK [1][-]{section.4.3}{4.3 训练过程与细节}{chapter.4}% 65
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 训练步骤}{section.4.3}% 66
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 第一阶段}{section.4.3}% 67
+\BOOKMARK [1][-]{section.4.4}{4.4 文档目录简介}{chapter.4}% 68
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1\040Thesis.tex}{section.4.4}% 69
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 编译脚本}{section.4.4}% 70
+\BOOKMARK [2][-]{subsection.4.4.3}{4.4.3 Tmp文件夹}{section.4.4}% 71
+\BOOKMARK [2][-]{subsection.4.4.4}{4.4.4 Style文件夹}{section.4.4}% 72
+\BOOKMARK [2][-]{subsection.4.4.5}{4.4.5 Tex文件夹}{section.4.4}% 73
+\BOOKMARK [2][-]{subsection.4.4.6}{4.4.6 Img文件夹}{section.4.4}% 74
+\BOOKMARK [2][-]{subsection.4.4.7}{4.4.7 Biblio文件夹}{section.4.4}% 75
+\BOOKMARK [1][-]{section.4.5}{4.5 数学公式、图表、参考文献等功能}{chapter.4}% 76
+\BOOKMARK [2][-]{subsection.4.5.1}{4.5.1 数学公式}{section.4.5}% 77
+\BOOKMARK [2][-]{subsection.4.5.2}{4.5.2 数学环境}{section.4.5}% 78
+\BOOKMARK [2][-]{subsection.4.5.3}{4.5.3 表格}{section.4.5}% 79
+\BOOKMARK [2][-]{subsection.4.5.4}{4.5.4 图片插入}{section.4.5}% 80
+\BOOKMARK [2][-]{subsection.4.5.5}{4.5.5 算法}{section.4.5}% 81
+\BOOKMARK [2][-]{subsection.4.5.6}{4.5.6 参考文献引用}{section.4.5}% 82
+\BOOKMARK [1][-]{section.4.6}{4.6 常见使用问题}{chapter.4}% 83
+\BOOKMARK [0][-]{chapter.5}{第5章  一阶段模型设计与实现}{}% 84
+\BOOKMARK [1][-]{section.5.1}{5.1\040Top\040likelihood\040loss}{chapter.5}% 85
+\BOOKMARK [1][-]{section.5.2}{5.2\040Similarity\040loss}{chapter.5}% 86
+\BOOKMARK [1][-]{section.5.3}{5.3 文档目录简介}{chapter.5}% 87
+\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1\040Thesis.tex}{section.5.3}% 88
+\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 编译脚本}{section.5.3}% 89
+\BOOKMARK [2][-]{subsection.5.3.3}{5.3.3 Tmp文件夹}{section.5.3}% 90
+\BOOKMARK [2][-]{subsection.5.3.4}{5.3.4 Style文件夹}{section.5.3}% 91
+\BOOKMARK [2][-]{subsection.5.3.5}{5.3.5 Tex文件夹}{section.5.3}% 92
+\BOOKMARK [2][-]{subsection.5.3.6}{5.3.6 Img文件夹}{section.5.3}% 93
+\BOOKMARK [2][-]{subsection.5.3.7}{5.3.7 Biblio文件夹}{section.5.3}% 94
+\BOOKMARK [1][-]{section.5.4}{5.4 数学公式、图表、参考文献等功能}{chapter.5}% 95
+\BOOKMARK [2][-]{subsection.5.4.1}{5.4.1 数学公式}{section.5.4}% 96
+\BOOKMARK [2][-]{subsection.5.4.2}{5.4.2 数学环境}{section.5.4}% 97
+\BOOKMARK [2][-]{subsection.5.4.3}{5.4.3 表格}{section.5.4}% 98
+\BOOKMARK [2][-]{subsection.5.4.4}{5.4.4 图片插入}{section.5.4}% 99
+\BOOKMARK [2][-]{subsection.5.4.5}{5.4.5 算法}{section.5.4}% 100
+\BOOKMARK [2][-]{subsection.5.4.6}{5.4.6 参考文献引用}{section.5.4}% 101
+\BOOKMARK [1][-]{section.5.5}{5.5 常见使用问题}{chapter.5}% 102
+\BOOKMARK [0][-]{chapter.6}{第6章  总结与展望}{}% 103
+\BOOKMARK [1][-]{section.6.1}{6.1 先试试效果}{chapter.6}% 104
+\BOOKMARK [1][-]{section.6.2}{6.2 文档目录简介}{chapter.6}% 105
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1\040Thesis.tex}{section.6.2}% 106
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 编译脚本}{section.6.2}% 107
+\BOOKMARK [2][-]{subsection.6.2.3}{6.2.3 Tmp文件夹}{section.6.2}% 108
+\BOOKMARK [2][-]{subsection.6.2.4}{6.2.4 Style文件夹}{section.6.2}% 109
+\BOOKMARK [2][-]{subsection.6.2.5}{6.2.5 Tex文件夹}{section.6.2}% 110
+\BOOKMARK [2][-]{subsection.6.2.6}{6.2.6 Img文件夹}{section.6.2}% 111
+\BOOKMARK [2][-]{subsection.6.2.7}{6.2.7 Biblio文件夹}{section.6.2}% 112
+\BOOKMARK [1][-]{section.6.3}{6.3 数学公式、图表、参考文献等功能}{chapter.6}% 113
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 数学公式}{section.6.3}% 114
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 数学环境}{section.6.3}% 115
+\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 表格}{section.6.3}% 116
+\BOOKMARK [2][-]{subsection.6.3.4}{6.3.4 图片插入}{section.6.3}% 117
+\BOOKMARK [2][-]{subsection.6.3.5}{6.3.5 算法}{section.6.3}% 118
+\BOOKMARK [2][-]{subsection.6.3.6}{6.3.6 参考文献引用}{section.6.3}% 119
+\BOOKMARK [1][-]{section.6.4}{6.4 常见使用问题}{chapter.6}% 120
+\BOOKMARK [0][-]{appendix.A}{附录 A  中国科学院大学学位论文撰写要求}{}% 121
+\BOOKMARK [1][-]{section.A.1}{A.1 论文无附录者无需附录部分}{appendix.A}% 122
+\BOOKMARK [1][-]{section.A.2}{A.2 测试公式编号}{appendix.A}% 123
+\BOOKMARK [1][-]{section.A.3}{A.3 测试生僻字}{appendix.A}% 124
+\BOOKMARK [0][-]{section*.49}{参考文献}{}% 125
+\BOOKMARK [0][-]{appendix*.51}{作者简历及攻读学位期间发表的学术论文与研究成果}{}% 126
+\BOOKMARK [0][-]{appendix*.58}{致谢}{}% 127

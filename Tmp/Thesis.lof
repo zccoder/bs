@@ -1,0 +1,42 @@
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 乳腺钼靶分型\relax }}{1}{figure.caption.11}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces 乳腺钼靶肿块病灶特点\relax }}{2}{figure.caption.12}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces 乳腺钼靶钙化病灶特点\relax }}{3}{figure.caption.13}% 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces 乳腺钼靶结构扭曲病灶特点\relax }}{3}{figure.caption.14}% 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces 乳腺钼靶特征征象病灶特点\relax }}{4}{figure.caption.15}% 
+\contentsline {figure}{\numberline {1.6}{\ignorespaces 良恶性乳腺钼靶数据对比\relax }}{6}{figure.caption.17}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Lenet模型图\cite {39lecun1998gradient}\relax }}{16}{figure.caption.19}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 计算机视觉主要任务(a)图片分类(b)物体检测(c)物体分割\cite {lin2014microsoft}\relax }}{18}{figure.caption.20}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces R-CNN模型图\cite {40girshick2014rich}\relax }}{20}{figure.caption.21}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Fast R-CNN模型图\cite {41girshick2015fast}\relax }}{20}{figure.caption.22}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces RPN模型\cite {30ren2015faster}\relax }}{22}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces YOLO模型\cite {32redmon2016you}\relax }}{23}{figure.caption.24}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces SSD模型\cite {37Liu2016SSD}\relax }}{25}{figure.caption.25}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 迁移学习与传统机器学习的不同。(a)传统机器学习对不同的学习任务建立不同的模型，(b)迁移学习利用源域中的数据将知识迁移到目标域，完成模型建立。\relax }}{26}{figure.caption.26}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces 孪生网络图\cite {42chopra2005learning}\relax }}{29}{figure.caption.27}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 基于深度学习的医学数据工作流程\relax }}{33}{figure.caption.28}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces dicom数据格式\relax }}{34}{figure.caption.29}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 带标注信息的乳腺钼靶图片\relax }}{35}{figure.caption.30}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 本文乳腺钼靶病灶宽高长度直方图(a) 病灶宽度直方图(b) 病灶高度直方图\relax }}{36}{figure.caption.31}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 同一女性同一乳房不同角度拍摄图片\relax }}{36}{figure.caption.32}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 带有标注框的正样本及包含疑似恶性病灶的正常样本\relax }}{37}{figure.caption.33}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces weakFaster R-CNN模型图\relax }}{45}{figure.caption.35}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 残差模块\cite {8he2016deep}\relax }}{46}{figure.caption.36}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces weakFaster R-CNN第一阶段对图片预测结果可视化\relax }}{49}{figure.caption.40}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces weakFaster R-CNN第二阶段对图片预测结果可视化\relax }}{51}{figure.caption.46}% 
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces simFaster R-CNN模型图\relax }}{54}{figure.caption.47}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 经过RPN训练后得到的恶性样本和正常样本预测得到的anchors\relax }}{56}{figure.caption.48}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces simFaster R-CNN ROC曲线\relax }}{58}{figure.caption.50}% 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces simFaster R-CNN在天肿数据集上的对正样本预测结果可视化\relax }}{60}{figure.caption.53}% 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces simFaster R-CNN在天肿数据集上的对负样本预测结果可视化\relax }}{60}{figure.caption.54}% 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces SE Block\cite {64hu2018squeeze}\relax }}{61}{figure.caption.55}% 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 乳腺钼靶纵横比\relax }}{64}{figure.caption.59}% 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces DDSM乳腺钼靶图\relax }}{64}{figure.caption.61}% 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces simFaster R-CNN在DDSM数据集上的对正样本预测结果可视化\relax }}{66}{figure.caption.64}% 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces simFaster R-CNN在DDSM数据集上的对负样本预测结果可视化\relax }}{66}{figure.caption.65}% 
+\addvspace {10.0pt}
+\addvspace {10.0pt}

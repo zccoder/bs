@@ -1,0 +1,72 @@
+\contentsline {chapter}{\numberline {第1章\hspace {.3em}}引言}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}背景及意义}{1}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}乳腺分型}{1}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}乳腺癌及乳腺钼靶}{2}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}基于乳腺钼靶诊断的难点}{5}{subsection.1.1.3}% 
+\contentsline {section}{\numberline {1.2}研究现状}{7}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}乳腺影像学计算机辅助诊断方法}{7}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}深度学习技术的发展}{9}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}深度学习在乳腺乳腺上的发展}{11}{subsection.1.2.3}% 
+\contentsline {subsection}{\numberline {1.2.4}存在的问题及解决方案}{12}{subsection.1.2.4}% 
+\contentsline {section}{\numberline {1.3}主要研究内容}{13}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}需求分析，确定评判标准}{13}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}实现基于深度学习的乳腺钼靶分类模型}{13}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.3}设计全新损失函数，改进并设计全新分类检测模型}{13}{subsection.1.3.3}% 
+\contentsline {subsection}{\numberline {1.3.4}编程实现，完成不同模型之间的对比分析}{13}{subsection.1.3.4}% 
+\contentsline {section}{\numberline {1.4}本文结构及内容提要}{14}{section.1.4}% 
+\contentsline {chapter}{\numberline {第2章\hspace {.3em}}深度学习相关技术}{15}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}卷积神经网络}{15}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}物体检测模型}{17}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}两阶段物体检测模型}{19}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}单阶段物体检测模型}{23}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}迁移学习}{25}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}弱监督学习}{27}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}度量学习}{28}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}本章小结}{29}{section.2.6}% 
+\contentsline {chapter}{\numberline {第3章\hspace {.3em}}数据分析与处理}{31}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}数据分析}{31}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}医学数据分析}{31}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}乳腺钼靶数据分析}{33}{subsection.3.1.2}% 
+\contentsline {section}{\numberline {3.2}数据处理}{37}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}数据预处理}{37}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}数据集划分}{38}{subsection.3.2.2}% 
+\contentsline {section}{\numberline {3.3}标准制定}{38}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}数据定义}{38}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}基于病例}{38}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}基于图片}{41}{subsection.3.3.3}% 
+\contentsline {section}{\numberline {3.4}本章小结}{41}{section.3.4}% 
+\contentsline {chapter}{\numberline {第4章\hspace {.3em}}两阶段乳腺钼靶分类检测模型weakFaster R-CNN}{43}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}目的}{43}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}模型图}{44}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}训练过程与细节}{47}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}训练步骤}{47}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}第一阶段}{47}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}第二阶段}{48}{subsection.4.3.3}% 
+\contentsline {section}{\numberline {4.4}结果讨论与分析}{50}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}基于病例}{50}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}基于图片}{51}{subsection.4.4.2}% 
+\contentsline {section}{\numberline {4.5}本章小结}{51}{section.4.5}% 
+\contentsline {chapter}{\numberline {第5章\hspace {.3em}}一阶段乳腺钼靶分类检测模型simFaster R-CNN}{53}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}目的}{53}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}模型图}{53}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Top likelihood loss}{54}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Similarity loss}{56}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}训练过程与细节}{57}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}结果讨论与分析}{57}{section.5.6}% 
+\contentsline {subsection}{\numberline {5.6.1}基于病例}{57}{subsection.5.6.1}% 
+\contentsline {subsection}{\numberline {5.6.2}基于图片}{59}{subsection.5.6.2}% 
+\contentsline {subsection}{\numberline {5.6.3}可视化预测结果}{59}{subsection.5.6.3}% 
+\contentsline {section}{\numberline {5.7}其他工作}{61}{section.5.7}% 
+\contentsline {subsection}{\numberline {5.7.1}更换主干网络}{61}{subsection.5.7.1}% 
+\contentsline {subsection}{\numberline {5.7.2}更换similarity loss}{62}{subsection.5.7.2}% 
+\contentsline {subsection}{\numberline {5.7.3}更换权重因子}{62}{subsection.5.7.3}% 
+\contentsline {subsection}{\numberline {5.7.4}添加模块}{63}{subsection.5.7.4}% 
+\contentsline {subsection}{\numberline {5.7.5}更换数据集}{64}{subsection.5.7.5}% 
+\contentsline {section}{\numberline {5.8}本章小结}{66}{section.5.8}% 
+\contentsline {chapter}{\numberline {第6章\hspace {.3em}}总结与展望}{69}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}总结}{69}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}展望}{69}{section.6.2}% 
+\contentsline {chapter}{参考文献}{73}{section*.66}% 
+\contentsline {chapter}{作者简历及攻读学位期间发表的学术论文与研究成果}{77}{appendix*.68}% 
+\contentsline {subsection}{\numberline {.0.1}参加的研究项目}{77}{subsection.Alph0.0.1}% 
+\contentsline {subsection}{\numberline {.0.2}获奖情况}{77}{subsection.Alph0.0.2}% 
